@@ -1,100 +1,100 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,100:0066FF&height=170&section=header"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&height=70&lines=Ian+%22MiniPentaax%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single\&size=55\&pause=1000\&color=00C3FF\&center=true\&vCenter=true\&width=1000\&height=80\&lines=Ian+de+Vargas;Minecraft+Developer;Unity+Game+Developer;Java+%7C+C%23+%7C+Web+Developer)](https://git.io/typing-svg)
 
-**FullStack Developer & Tech Entrepreneur**
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+systems+that+actually+scale.;Java+%7C+TypeScript+%7C+React+%7C+Spring;From+architecture+to+deployment.;Let%27s+build+something+worth+shipping.)](https://git.io/typing-svg)
+## 💼 About Me
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MiniPentaax&color=F700F7&style=flat-square&label=profile+views)](https://github.com/MiniPentaax)
-[![WakaTime](https://wakatime.com/badge/user/8071c3c6-6f97-4f87-9aa5-dd5cc979ea27.svg?style=flat-square)](https://wakatime.com/@8071c3c6-6f97-4f87-9aa5-dd5cc979ea27)
+Hi! I'm **Ian de Vargas**, a passionate developer focused on creating games, Minecraft plugins and modern applications.
+
+I enjoy building systems, solving problems, learning new technologies and turning ideas into real projects.
+
+![Profile+Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=00C3FF\&style=for-the-badge\&label=PROFILE+VIEWS)
+
+## 🛠 Core Stack
+
+[![Core](https://skillicons.dev/icons?i=java,cs,unity,javascript,typescript,nodejs,react,nextjs,mysql,sqlite,git,github,vscode\&perline=10)](https://skillicons.dev)
+
+## 🔎 Detailed Stacks
+
+### 🎮 Game Development
+
+[![GameDev](https://skillicons.dev/icons?i=unity,cs,java,blender,git,github\&perline=8)](https://skillicons.dev)
+
+### ⛏️ Minecraft Development
+
+[![Minecraft](https://skillicons.dev/icons?i=java,mysql,sqlite,maven,gradle,git,github\&perline=8)](https://skillicons.dev)
+
+### 🌐 Frontend & Backend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap\&perline=8)](https://skillicons.dev)
+
+### 🗄️ Databases
+
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,redis\&perline=8)](https://skillicons.dev)
+
+### ⚙️ Tools & Others
+
+[![Others](https://skillicons.dev/icons?i=vscode,visualstudio,github,docker,figma,discord,cloudflare,linux\&perline=8)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## `whoami`
-
-```ts
-const ian = {
-  name      : "Ian",
-  nick      : "MiniPentaax",
-  role      : ["FullStack Developer", "Tech Entrepreneur"],
-  focus     : ["Complex Systems", "Custom Solutions", "Team Leadership"],
-  currently : "Building things that matter",
-  available : true,
-};
-```
-
-I turn ideas into real, working software. From architecture decisions to CI/CD pipelines — I care about the whole system, not just the code that runs in it.
-
----
-
-## Stack
-
-### Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Also worked with
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-
----
-
-## Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiniPentaax&theme=react-dark&custom_title=Contribution+Graph&hide_border=true&color=F700F7&line=F700F7&point=ffffff" alt="Activity Graph" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## Off the clock
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&custom_title=Ian's+Activity+Graph" />
+</p>
 
-- 🌿 Exploring nature when I'm not shipping code
-- 🎮 Counter-Strike 2 on weekends (and winning, occasionally)
-- 🧪 Always running experiments with new tech
-- 👥 Running a programming community
-- ⏱️ Punctual to a fault
+## 🎯 Current Goals
 
----
+* 🎮 Develop better Unity games
+* ⛏️ Create advanced Minecraft plugins
+* 🌐 Improve Full Stack skills
+* 🚀 Build bigger projects
 
-## Contact
+## 🎮 Fun Facts
+
+* Minecraft enthusiast
+* Unity game developer
+* Technology lover
+* Always learning something new
+* Enjoy creating useful projects
+
+## ✨ Contact
+
+<p align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00C3FF&label=VISITORS&style=for-the-badge"/>
+
+</p>
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1365831210483454093)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.minipentaxx@gmail.com)
-
-*"The future is code — let's build something worth shipping."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,100:0066FF&height=180&section=footer&text=Keep+Building&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
