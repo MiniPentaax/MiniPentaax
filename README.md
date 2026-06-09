@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single\&size=55\&pause=1000\&color=00C3FF\&center=true\&vCenter=true\&width=1000\&height=80\&lines=Ian+de+Vargas;Minecraft+Developer;Unity+Game+Developer;Java+%7C+C%23+%7C+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single\&size=55\&pause=1000\&color=00C3FF\&center=true\&vCenter=true\&width=1000\&height=80\&lines=Ian+%22MiniPentaax%22;Minecraft+Developer;Unity+Game+Developer;Java+%7C+C%23+%7C+Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
 ## 💼 About Me
 
-Hi! I'm **Ian de Vargas**, a passionate developer focused on creating games, Minecraft plugins and modern applications.
+Hi! I'm **Ian "MiniPentaax"**, a passionate developer focused on creating games, Minecraft plugins and modern applications.
 
 I enjoy building systems, solving problems, learning new technologies and turning ideas into real projects.
 
@@ -42,28 +42,8 @@ I enjoy building systems, solving problems, learning new technologies and turnin
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&custom_title=Ian's+Activity+Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&custom_title=MiniPentaax's+Activity+Graph" />
 </p>
 
 ## 🎯 Current Goals
