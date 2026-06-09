@@ -65,7 +65,7 @@ I enjoy building systems, solving problems, learning new technologies and turnin
 
 <p align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/MiniPentaax">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
