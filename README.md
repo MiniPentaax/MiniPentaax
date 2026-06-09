@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F700F7&center=true&vCenter=true&width=600&height=70&lines=Ian+%22MiniPentaax%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&height=70&lines=Ian+%22MiniPentaax%22)](https://git.io/typing-svg)
 
 **FullStack Developer & Tech Entrepreneur**
 
@@ -92,8 +92,8 @@ I turn ideas into real, working software. From architecture decisions to CI/CD p
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/480132651504631818)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaeeelbr@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1365831210483454093)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.minipentaxx@gmail.com)
 
 *"The future is code — let's build something worth shipping."*
 
